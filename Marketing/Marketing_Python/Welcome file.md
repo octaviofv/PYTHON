@@ -16,7 +16,7 @@ Este es el contenido del curso, mas adelante ire actualizando con nuevos temas y
 
 * [Introducción al curso](https://github.com/Chilangdon20/PYTHON/tree/master/Marketing/Marketing_Python/Introduccio%CC%81n%20al%20Curso_1)
 
-* [Modelo de prediccion de cleintes](https://github.com/Chilangdon20/PYTHON/tree/master/Marketing/Marketing_Python/Modelo_Prediccion_Cliente_Primer_Curso)
+* [Modelo de prediccion de clientes](https://github.com/Chilangdon20/PYTHON/tree/master/Marketing/Marketing_Python/Modelo_Prediccion_Cliente_Primer_Curso)
 
 
 
